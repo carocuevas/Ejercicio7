@@ -1,0 +1,43 @@
+.jumbotrontypo{
+	color: white;
+	text-align: center;
+	padding: 5vh 30vw 5vh 30vw;
+	background-repeat: no-repeat;
+	display: block;
+	margin-top: 0;
+}
+.cardsdiv{
+	text-align: center;
+	display: block;
+}
+p .header{
+	font-weight: lighter;
+}
+body { 
+	padding-top: 0px; 
+}
+.cardsvarias > div > div {
+	overflow: hidden;
+	border-radius: 30px;
+	border: 10px solid #ddd;
+	padding: 0;
+}
+.cardsvarias > div > div p a {
+	text-transform: uppercase;
+}
+.footerlogo{
+	float: center;
+	border: solid 1px #ccc;
+	display: block;
+	padding: 0.8em 0 0.5em 0;
+	text-align: center;
+}
+.footer{
+	margin: 0;
+	background-color: #eee; 
+	text-align: center;
+	font-size: 1rem;
+	padding: 0.7em 0 0 0;
+	border: solid 1px #ccc;
+	bottom: 0;
+}
